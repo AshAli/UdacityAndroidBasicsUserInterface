@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday!"
+        android:text="Happy Birthday, test!"
         android:textColor="@android:color/white"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
